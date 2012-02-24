@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  description: MyText
+  due_at: 2012-02-22 19:49:41
+  percentage: 1
+
+two:
+  title: MyString
+  description: MyText
+  due_at: 2012-02-22 19:49:41
+  percentage: 1
